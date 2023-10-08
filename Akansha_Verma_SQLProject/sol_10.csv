@@ -1,0 +1,21 @@
+house_id,name,house_type,bhk_details,furnishing_type,TOTAT_OCC
+1,Zaanz appartment,Apartment,3 BHK,unfurnished,3
+7,UDB Building,Apartment,3 BHK,semifurnished,3
+8,Apoorva society,Apartment,2 BHK,fully-furnished,3
+14,Nestaway building,Apartment,3 BHK,fully-furnished,3
+16,Indira society,Apartment,3 BHK,fully-furnished,3
+17,Sri Krishna Society,Independent,3 BHK,fully-furnished,2
+19,Vinayaka residency,Independent,3 BHK,fully-furnished,2
+13,Barvika Residency,Independent,2 BHK,unfurnished,2
+9,Stag saptgiri,Independent,1 BHK,unfurnished,2
+10,VaK Residency,Independent,3 BHK,fully-furnished,2
+2,stag saptgiri,Apartment,3 BHK,unfurnished,2
+3,sri sai enclave,Apartment,3 BHK,fully-furnished,2
+4,orchids building,Apartment,2 BHK,fully-furnished,2
+5,Fella homes,Independent,4 BHK,fully-furnished,2
+6,Juniper appartments,Apartment,3 BHK,semifurnished,2
+11,Sunshine hills,Apartment,1 BHK,unfurnished,1
+12,Sri Sai appartment,Independent,1 BHK,unfurnished,1
+18,uniworld,Independent,2 BHK,fully-furnished,1
+15,Windsor Plaza,Independent,1 BHK,unfurnished,1
+20,Sun city appartments,Independent,1 BHK,unfurnished,0

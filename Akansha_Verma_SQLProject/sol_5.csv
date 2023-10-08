@@ -1,0 +1,9 @@
+Rent,city
+64200,Bangalore
+62000,Delhi
+53200,Pune
+,
+,
+Another table to calculate total rent of all cities,
+total_rent_of_all_cities,
+179400,
